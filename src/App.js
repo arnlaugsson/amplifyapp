@@ -5,7 +5,7 @@ export default function App() {
   return (
     <div className="App">
       <h1>Hello Amplify Deployment</h1>
-      <h2>Start editing to see some magic happen!</h2>
+      <h2>This should now be running on AWS Amplify.</h2>
     </div>
   );
 }
